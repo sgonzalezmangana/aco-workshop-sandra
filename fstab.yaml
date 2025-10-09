@@ -1,0 +1,7 @@
+mountpoints:
+  /:
+    url: https://content.da.live/alexj74/aco-workshop-sandra/
+    type: markup
+
+folders:
+  /products/: /products/default
